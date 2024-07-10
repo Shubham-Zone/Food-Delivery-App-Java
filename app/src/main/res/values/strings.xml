@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cafeteria</string>
+    <string name="descriptionFood">Meaty portabello mushrooms make for the perfect vegetarian burger</string>
+    <string name="we_will_send_you_an_one_time_otp_on_this_given_mobile_number">we will send you an otp on this given mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile number</string>
+    <string name="otp_verification">OTP VERIFICATION</string>
+    <string name="please_enter_the_otp_sent_to_you">Please Enter the OTP sent to you</string>
+    <string name="beverages" />
+    <string name="beverages_">beverages</string>
+    <string name="msg_token_fmt">msg_token_fmt</string>
+    <string name="aboutus">Hey there ! My name is shubham kumar.i am from bsc(hons) cs final year batch 2023.Me and my friend bharat feel that deu to lot of crowd and lack of chairs in the canteen most of the students didn\'t order anything .So we develop this food order app for you.Now you can order from any corner of the college and your food will be at your location within 10 mins.please do share this app and support us we do this for you only</string>
+</resources>
